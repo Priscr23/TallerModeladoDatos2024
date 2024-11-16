@@ -3,11 +3,14 @@ En el repositorio se encuentran tres carpetas que representan los diversos temas
 
 ## Contenido:
 1.Procesamiento
+
   -ExploracionDatos.ipynb
   -FeatureSelection.ipynb
   -PCA.ipynb
   -TestTrainSplit.ipynb
+  
 2.Regresión
+
   -LinearRegression.ipynb
   -SVR.ipynb
   -NeuralNetworks.ipynb
@@ -15,7 +18,9 @@ En el repositorio se encuentran tres carpetas que representan los diversos temas
   -RandomForest.ipynb
   -XGBoost_regresion.ipynb
   -comparar_modelos.ipynb
+  
 3.Clasificación
+
   -Logistic.ipynb
   -SVC.ipynb
   -NN.ipynb
